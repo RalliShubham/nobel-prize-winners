@@ -40,6 +40,7 @@ The project aims to answer the following questions:
   - Used value_counts() to determine the most frequent gender and birth country.
 
   - Stored results in variables top_gender and top_country.
+    
 
 **2. Decade with the Highest Proportion of US-born Winners**
 
@@ -52,6 +53,7 @@ The project aims to answer the following questions:
   - Identified the decade with the highest count and stored it as max_decade_usa.
 
   - Visualized the trend using seaborn.
+    
 
 **3. Identifying the Decade and Category with the Highest Proportion of Female Laureates**
 
@@ -62,6 +64,7 @@ The project aims to answer the following questions:
   - Extracted the decade-category pair with the highest proportion and stored it as max_female_dict.
 
   - Visualized trends using seaborn.
+    
 
 **4. First Woman to Receive a Nobel Prize**
 
@@ -70,6 +73,7 @@ The project aims to answer the following questions:
   - Sorted by year to identify the earliest laureate.
 
   - Extracted the name and category and stored them in first_woman_name and first_woman_category.
+    
 
 **5. Identifying Individuals or Organizations with Multiple Nobel Prizes**
 
@@ -78,6 +82,7 @@ The project aims to answer the following questions:
   - Filtered records where the count was >=2.
 
   - Stored names of repeat winners in a list called repeat_list.
+    
 
 ## Results
 
