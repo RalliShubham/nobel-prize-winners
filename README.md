@@ -1,6 +1,8 @@
 # nobel-prize-winners
 This project analyzes Nobel Prize winner data to identify patterns and answer key questions regarding award trends, gender distributions, country statistics, and multiple award winners. 
 
+(This project can directly be seen through github without downloading anything! Just open the .ipnyb file)
+
 ## Project Overview
 
 This project analyzes Nobel Prize winner data to identify patterns and answer key questions regarding award trends, gender distributions, country statistics, and multiple award winners. The dataset used in this project is nobel.csv, which contains information on laureates, including their birth country, gender, award category, and year of achievement.
