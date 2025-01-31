@@ -37,47 +37,47 @@ The project aims to answer the following questions:
 
 **1. Identifying the Most Commonly Awarded Gender and Birth Country**
 
-Used value_counts() to determine the most frequent gender and birth country.
+  - Used value_counts() to determine the most frequent gender and birth country.
 
-Stored results in variables top_gender and top_country.
+  - Stored results in variables top_gender and top_country.
 
 **2. Decade with the Highest Proportion of US-born Winners**
 
-Created a decade column by binning the year column into decades.
+  - Created a decade column by binning the year column into decades.
 
-Filtered records for winners born in the USA.
+  - Filtered records for winners born in the USA.
 
-Grouped by decade and counted occurrences.
+  - Grouped by decade and counted occurrences.
 
-Identified the decade with the highest count and stored it as max_decade_usa.
+  - Identified the decade with the highest count and stored it as max_decade_usa.
 
-Visualized the trend using seaborn.
+  - Visualized the trend using seaborn.
 
 **3. Identifying the Decade and Category with the Highest Proportion of Female Laureates**
 
-Created a boolean column women for filtering female winners.
+  - Created a boolean column women for filtering female winners.
 
-Grouped data by decade and category, computing the mean proportion of female winners.
+  - Grouped data by decade and category, computing the mean proportion of female winners.
 
-Extracted the decade-category pair with the highest proportion and stored it as max_female_dict.
+  - Extracted the decade-category pair with the highest proportion and stored it as max_female_dict.
 
-Visualized trends using seaborn.
+  - Visualized trends using seaborn.
 
 **4. First Woman to Receive a Nobel Prize**
 
-Filtered data for female winners.
+  - Filtered data for female winners.
 
-Sorted by year to identify the earliest laureate.
+  - Sorted by year to identify the earliest laureate.
 
-Extracted the name and category and stored them in first_woman_name and first_woman_category.
+  - Extracted the name and category and stored them in first_woman_name and first_woman_category.
 
 **5. Identifying Individuals or Organizations with Multiple Nobel Prizes**
 
-Grouped data by laureate_id and full_name, counting prize occurrences.
+  - Grouped data by laureate_id and full_name, counting prize occurrences.
 
-Filtered records where the count was >=2.
+  - Filtered records where the count was >=2.
 
-Stored names of repeat winners in a list called repeat_list.
+  - Stored names of repeat winners in a list called repeat_list.
 
 ## Results
 
