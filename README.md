@@ -86,23 +86,23 @@ The project aims to answer the following questions:
 
 ## Results
 
-The most commonly awarded gender is Male, and the most commonly awarded birth country is United States of America.
+🌟 The most commonly awarded gender is Male, and the most commonly awarded birth country is United States of America.
 
-The decade with the highest proportion of US-born winners is 2000.
+🌟 The decade with the highest proportion of US-born winners is 2000.
 
-The decade-category pair with the highest proportion of female laureates was identified and stored in max_female_dict.
+🌟 The decade-category pair with the highest proportion of female laureates was identified and stored in max_female_dict.
 
-The first woman to win a Nobel Prize was Marie Curie in Physics.
+🌟 The first woman to win a Nobel Prize was Marie Curie in Physics.
 
-Several individuals and organizations have won multiple Nobel Prizes, stored in repeat_list.
+🌟 Several individuals and organizations have won multiple Nobel Prizes, stored in repeat_list.
 
 ## Visualizations
 
-The project includes graphical representations such as:
+**The project includes graphical representations such as:**
 
-Line charts for Nobel Prize trends over decades.
+  - Line charts for Nobel Prize trends over decades.
 
-Category-wise analysis of female laureates.
+  - Category-wise analysis of female laureates.
 
 ## Conclusion
 
@@ -110,18 +110,18 @@ This analysis provides insights into Nobel Prize award distributions, gender rep
 
 ## How to Run
 
-Ensure Python and required libraries (pandas, numpy, seaborn, matplotlib) are installed.
+  - Ensure Python and required libraries (pandas, numpy, seaborn, matplotlib) are installed.
 
-Place nobel.csv in the appropriate directory.
+  - Place nobel.csv in the appropriate directory.
 
-Run the script to generate results and visualizations.
+  - Run the script to generate results and visualizations.
 
 ## Future Improvements
 
-Enhance data preprocessing to handle missing values more effectively.
+  - Enhance data preprocessing to handle missing values more effectively.
 
-Explore additional patterns such as collaborations, age distributions, and trends in specific fields.
+  - Explore additional patterns such as collaborations, age distributions, and trends in specific fields.
 
-Automate data updates for real-time insights.
+  - Automate data updates for real-time insights.
 
 
